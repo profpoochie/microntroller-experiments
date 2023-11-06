@@ -1,0 +1,6 @@
+{
+    "port": "COM1",
+    "board": "arduino:avr:uno",
+    "sketch": "Arduino-codes\\ch1-gettings-started\\hello-world.ino",
+    "programmer": "avrisp"
+}

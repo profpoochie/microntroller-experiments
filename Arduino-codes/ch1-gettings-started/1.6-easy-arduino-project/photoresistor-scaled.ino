@@ -1,4 +1,3 @@
-#include <arduino.h>
 
 const int sensorPin = A0;
 

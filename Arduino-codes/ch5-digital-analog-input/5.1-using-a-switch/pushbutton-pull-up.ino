@@ -3,8 +3,6 @@
   Pull-up resistor version
 */
 
-#include <Arduino.h>
-
 const int buttonPin = 2;     // the number of the pushbutton pin
 
 void setup() {

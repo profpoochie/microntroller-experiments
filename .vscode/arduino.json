@@ -1,6 +1,6 @@
 {
     "port": "COM1",
     "board": "arduino:avr:uno",
-    "sketch": "Arduino-codes\\ch1-gettings-started\\hello-world.ino",
+    "sketch": "Arduino-codes/ch1-gettings-started/1.6-easy-arduino-project/photoresistor-speaker.ino",
     "programmer": "avrisp"
 }

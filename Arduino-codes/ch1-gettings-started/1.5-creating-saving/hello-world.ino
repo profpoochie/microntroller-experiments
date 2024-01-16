@@ -1,4 +1,7 @@
-#include <Arduino.h>
+#include "Arduino.h"
+extern void setup();
+extern void loop();
+
 
 void setup()
 {
